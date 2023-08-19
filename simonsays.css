@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 20%;
+    margin: 0.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color:#EA1179;
+}
+.green{
+    background-color: rgb(64, 198, 31);
+}
+.yellow{
+    background-color: #edb50b;
+}
+.blue{
+    background-color:  #241468;
+}
+.gameflash{
+    background-color: aliceblue;
+}
+.userflash{
+    background-color: rgb(231, 255, 47);
+}
+.redcol{
+    *{
+       background-color: red; 
+    }
+}
+h3{
+    color: rgb(255, 11, 178);
+}
